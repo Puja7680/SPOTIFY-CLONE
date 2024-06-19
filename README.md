@@ -7,6 +7,7 @@ Features:
 3.Playlists: Users can create and manage personalized playlists, add songs to existing playlists, and delete unwanted songs. The playlists are dynamically updated, reflecting the changes made by the user.
 4.Discover new music: The application incorporates a recommendation system that suggests songs and artists based on the user's listening history and preferences. This feature helps users explore new music that aligns with their tastes.
 5.Responsive design: The Spotify Clone is built with responsive design principles, ensuring optimal viewing and interaction experiences across a variety of devices, including desktops, tablets, and mobile phones.
+
 How to Use:
 1.Clone this repository to your local machine.
 2.Open the index.html file in your preferred web browser.
@@ -15,6 +16,7 @@ How to Use:
 5.Create and manage playlists by clicking on the "Create Playlist" button.
 6.Play and control songs using the player at the bottom of the screen.
 7.Enjoy discovering new music and creating personalized playlists!
+
 Technologies Used:
 HTML: Used for structuring the web pages and organizing the content.
 CSS: Used for styling and visual enhancements, providing an appealing user interface.
